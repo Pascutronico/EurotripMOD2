@@ -4,6 +4,7 @@
     <mapping directory="" vcs="" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/EurotripMOD2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../MODMOD" vcs="Git" />
   </component>
 </project>
 
