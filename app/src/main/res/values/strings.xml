@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maps_key">AIzaSyAe0nageFFNtSfCNPl1YWBrLRT0GpQPCHw</string>
+    <string name="app_name">Eurotrip</string>
+    <string name="action_settings">Settings</string>
+    <string name="madrid">Madrid</string>
+    <string name="barce">Barcelona</string>
+    <string name="paris">Paris</string>
+    <string name="london">Londres</string>
+    <string name="partida">Partida</string>
+    <string name="destino">Destino</string>
+    <string name="salida">Salida</string>
+    <string name="llegada">Llegada</string>
+
+    <!--  MADRID -->
+    <string name="hotel_madrid">Apartments Arenal</string>
+    <string name="address_madrid">Bordadores 9, Bajo F, Centro de Madrid, 28013 Madrid, España</string>
+    <string name="viaje_madrid_1">VIAJE MADRID1</string>
+    <string name="viaje_madrid_2">VIAJE MADRID2</string>
+    <string name="viaje_madrid_3">VIAJE MADRID3</string>
+    <string name="viaje_madrid_4">VIAJE MADRID4</string>
+    <string name="viaje_madrid_5">VIAJE MADRID5</string>
+    <string name="itinerario_madrid">COMIDA MADRID</string>
+    <string name="notas_madrid">ATRAC MADRID</string>
+
+    <!-- BARCELONA -->
+    <string name="hotel_barce">Apartamentos Aura Park Nord</string>
+    <string name="address_barce">Puerto Principe, 26-40, Sant Andreu, 08027 Barcelona, España</string>
+    <string name="viaje_barce_1">VIAJE BARCELONA1</string>
+    <string name="viaje_barce_2">VIAJE BARCELONA2</string>
+    <string name="viaje_barce_3">VIAJE BARCELONA3</string>
+    <string name="viaje_barce_4">VIAJE BARCELONA4</string>
+    <string name="itinerario_barce">ATRAC BARCE</string>
+    <string name="notas_barce">COMIDA BARCE</string>
+
+    <!-- PARIS -->
+    <string name="hotel_paris">Adagio Access Paris Vanves</string>
+    <string name="address_paris">26 Rue Jean Bleuzen, 92170 Vanves, Francia</string>
+    <string name="viaje_paris_1">VIAJE PARIS1</string>
+    <string name="viaje_paris_2">VIAJE PARIS2</string>
+    <string name="viaje_paris_3">VIAJE PARIS3</string>
+    <string name="viaje_paris_4">VIAJE PARIS4</string>
+    <string name="itinerario_paris">ITINERARIO PARIS</string>
+    <string name="notas_paris">NOTAS PARIS</string>
+
+    <!-- LONDON -->
+    <string name="hotel_london">The Gresham Hotel</string>
+    <string name="address_london">116 Sussex Gardens, Westminster, Londres, W2 1UA, Reino Unido</string>
+    <string name="viaje_london_1">VIAJE LONDON1</string>
+    <string name="viaje_london_2">VIAJE LONDON2</string>
+    <string name="viaje_london_3">VIAJE LONDON3</string>
+    <string name="viaje_london_4">VIAJE LONDON4</string>
+    <string name="itinerario_london">ATRAC LONDON</string>
+    <string name="notas_london">COMIDA LONDON</string>
+
+
+</resources>
