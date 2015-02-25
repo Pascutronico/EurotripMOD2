@@ -58,6 +58,12 @@ public class ViajeView extends Fragment{
                 information.add(getResources().getString(R.string.llegada));
                 information.add(getResources().getString(R.string.viaje_madrid_3));
                 information.add(getResources().getString(R.string.viaje_madrid_4));
+                information.add(getResources().getString(R.string.viaje_madrid_5));
+                information.add(getResources().getString(R.string.viaje_madrid_6));
+                information.add(getResources().getString(R.string.viaje_madrid_7));
+                information.add(getResources().getString(R.string.viaje_madrid_8));
+                information.add(getResources().getString(R.string.viaje_madrid_9));
+                information.add(getResources().getString(R.string.viaje_madrid_10));
                 break;
             case Constants.BARCELONA:
                 information.add(getResources().getString(R.string.partida));
@@ -78,6 +84,12 @@ public class ViajeView extends Fragment{
                 information.add(getResources().getString(R.string.llegada));
                 information.add(getResources().getString(R.string.viaje_paris_3));
                 information.add(getResources().getString(R.string.viaje_paris_4));
+                information.add(getResources().getString(R.string.viaje_paris_5));
+                information.add(getResources().getString(R.string.viaje_paris_6));
+                information.add(getResources().getString(R.string.viaje_paris_7));
+                information.add(getResources().getString(R.string.viaje_paris_8));
+                information.add(getResources().getString(R.string.viaje_paris_9));
+                information.add(getResources().getString(R.string.viaje_paris_10));
                 break;
             case Constants.LONDON:
                 information.add(getResources().getString(R.string.partida));
@@ -92,9 +104,10 @@ public class ViajeView extends Fragment{
         }
 
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(getActivity(),
-                android.R.layout.simple_list_item_1, information);
+                R.layout.fonts, information);
 
         gridView.setAdapter(adapter);
+        gridView.getBackground().setAlpha(80);
 
         return rootView;
     }

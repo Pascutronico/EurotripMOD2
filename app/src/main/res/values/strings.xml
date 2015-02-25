@@ -7,7 +7,7 @@
     <string name="barce">Barcelona</string>
     <string name="paris">Paris</string>
     <string name="london">Londres</string>
-    <string name="partida">Partida</string>
+    <string name="partida">&lt;u>Partida&lt;/u></string>
     <string name="destino">Destino</string>
     <string name="salida">Salida</string>
     <string name="llegada">Llegada</string>
@@ -15,11 +15,16 @@
     <!--  MADRID -->
     <string name="hotel_madrid">Apartments Arenal</string>
     <string name="address_madrid">Bordadores 9, Bajo F, Centro de Madrid, 28013 Madrid, España</string>
-    <string name="viaje_madrid_1">VIAJE MADRID1</string>
-    <string name="viaje_madrid_2">VIAJE MADRID2</string>
-    <string name="viaje_madrid_3">VIAJE MADRID3</string>
-    <string name="viaje_madrid_4">VIAJE MADRID4</string>
-    <string name="viaje_madrid_5">VIAJE MADRID5</string>
+    <string name="viaje_madrid_1">Estacion Atocha</string>
+    <string name="viaje_madrid_2">Estacion Sants</string>
+    <string name="viaje_madrid_3">07:30</string>
+    <string name="viaje_madrid_4">10:40</string>
+    <string name="viaje_madrid_5">AVE</string>
+    <string name="viaje_madrid_6">Plazas</string>
+    <string name="viaje_madrid_7">03073</string>
+    <string name="viaje_madrid_8">09A/09B</string>
+    <string name="viaje_madrid_9">N° Billetes:</string>
+    <string name="viaje_madrid_10">759550501530/48</string>
     <string name="itinerario_madrid">COMIDA MADRID</string>
     <string name="notas_madrid">ATRAC MADRID</string>
 
@@ -36,10 +41,16 @@
     <!-- PARIS -->
     <string name="hotel_paris">Adagio Access Paris Vanves</string>
     <string name="address_paris">26 Rue Jean Bleuzen, 92170 Vanves, Francia</string>
-    <string name="viaje_paris_1">VIAJE PARIS1</string>
-    <string name="viaje_paris_2">VIAJE PARIS2</string>
-    <string name="viaje_paris_3">VIAJE PARIS3</string>
-    <string name="viaje_paris_4">VIAJE PARIS4</string>
+    <string name="viaje_paris_1">Gare du Nord</string>
+    <string name="viaje_paris_2">St Pancras</string>
+    <string name="viaje_paris_3">14:10</string>
+    <string name="viaje_paris_4">15:30</string>
+    <string name="viaje_paris_5">Train</string>
+    <string name="viaje_paris_6">Coach/Seats</string>
+    <string name="viaje_paris_7">9035</string>
+    <string name="viaje_paris_8">016/57-58</string>
+    <string name="viaje_paris_9">Booking Reference:</string>
+    <string name="viaje_paris_10">PNR / SWIYEQ</string>
     <string name="itinerario_paris">ITINERARIO PARIS</string>
     <string name="notas_paris">NOTAS PARIS</string>
 
@@ -53,5 +64,8 @@
     <string name="itinerario_london">ATRAC LONDON</string>
     <string name="notas_london">COMIDA LONDON</string>
 
+    <!-- COLORS -->
+
+    <color name="font_color">#003366</color>
 
 </resources>
